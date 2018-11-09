@@ -1,2 +1,0 @@
-# stiem
-Created with CodeSandbox
